@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>item/source/heart_00.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{6,6},{28,24}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{28,24}</string>
+			</dict>
+			<key>item/source/heart_01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{46,6},{26,24}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{26,24}</string>
+			</dict>
+			<key>item/source/heart_02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{84,6},{26,24}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{26,24}</string>
+			</dict>
+			<key>item/source/heart_03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{44,42},{22,24}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{22,24}</string>
+			</dict>
+			<key>item/source/heart_04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{78,42},{16,24}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{16,24}</string>
+			</dict>
+			<key>item/source/heart_05.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{78,78},{10,24}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{10,24}</string>
+			</dict>
+			<key>item/source/heart_06.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{106,42},{16,24}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{16,24}</string>
+			</dict>
+			<key>item/source/heart_07.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{44,78},{22,24}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{22,24}</string>
+			</dict>
+			<key>item/source/heart_08.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{6,42},{26,24}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{26,24}</string>
+			</dict>
+			<key>item/source/heart_09.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{6,78},{26,24}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{26,24}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>heart.png</string>
+			<key>realTextureFileName</key>
+			<string>heart.png</string>
+			<key>size</key>
+			<string>{128,128}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>128</integer>
+			<key>height</key>
+			<integer>128</integer>
+		</dict>
+	</dict>
+</plist>

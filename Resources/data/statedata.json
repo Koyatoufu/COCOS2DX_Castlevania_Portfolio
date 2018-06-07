@@ -1,0 +1,27 @@
+[
+  {
+    "Execute": [
+      {
+        "velocity": 0,
+        "isDirCheck": false,
+        "AirForce": 0,
+        "isAir": false,
+        "isJump": false,
+        "airCheck": false,
+        "JumpCheck": false
+      }
+    ],
+    "State": [
+      {
+        "animName": "idle",
+        "appendStr": "",
+        "isAppendNum": false,
+        "isAppendStr": false,
+        "launchForce": 0,
+        "airFroce": 0,
+        "attackableCheck": false,
+        "airCheck": false
+      }
+    ]
+  }
+]

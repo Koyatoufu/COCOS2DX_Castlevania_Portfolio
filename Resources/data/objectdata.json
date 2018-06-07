@@ -1,0 +1,258 @@
+{
+  "Unit": {
+    "Player": [
+      {
+        "filepath": "char/player/trevor/trevor.csb",
+        "name": "trevor",
+        "movespeed": 2.5,
+        "status": {
+          "hp": 150,
+          "mp": 50,
+          "str": 20,
+          "con": 15,
+          "int": 10,
+          "reg": 10
+        },
+        "wType": 0,
+        "wIdx": 0,
+        "sWIdx": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "filepath": "char/player/sypha/sypha.csb",
+        "name": "sypha",
+        "movespeed": 2,
+        "status": {
+          "hp": 100,
+          "mp": 100,
+          "str": 10,
+          "con": 10,
+          "int": 20,
+          "reg": 15
+        },
+        "wType": 1,
+        "wIdx": 0,
+        "sWIdx": [
+          3,
+          4,
+          5
+        ]
+      }
+    ],
+    "Enemy": [
+      {
+        "filepath": "char/enemy/wolf/wolf.csb",
+        "name": "wolf",
+        "type": 0,
+        "movespeed": 3,
+        "projectile": 100,
+        "status": {
+          "hp": 50,
+          "mp": 0,
+          "str": 10,
+          "con": 10,
+          "int": 5,
+          "reg": 5
+        }
+      },
+      {
+        "filepath": "char/enemy/skeleton/skeleton.csb",
+        "type": 1,
+        "name": "skeleton",
+        "movespeed": 2.25,
+        "projectile": 3,
+        "status": {
+          "hp": 40,
+          "mp": 0,
+          "str": 5,
+          "con": 5,
+          "int": 10,
+          "reg": 10
+        }
+      },
+      {
+        "filepath": "char/enemy/icetiger/icetiger.csb",
+        "type": 2,
+        "name": "icetiger",
+        "movespeed": 2.5,
+        "projectile": 100,
+        "status": {
+          "hp": 80,
+          "mp": 0,
+          "str": 15,
+          "con": 10,
+          "int": 5,
+          "reg": 10
+        }
+      },
+      {
+        "filepath": "char/enemy/icegolem/icegolem.csb",
+        "name": "icetiger",
+        "type": 3,
+        "movespeed": 1.75,
+        "projectile": 100,
+        "status": {
+          "hp": 200,
+          "mp": 100,
+          "str": 15,
+          "con": 10,
+          "int": 5,
+          "reg": 10
+        }
+      }
+    ]
+  },
+  "Item": [
+    {
+      "filepath": "item/meat.csb",
+      "type": 0,
+      "value": 50,
+      "se": 3
+    },
+    {
+      "filepath": "item/heart.csb",
+      "type": 1,
+      "value": 10,
+      "se": 3
+    },
+    {
+      "filepath": "item/number.csb",
+      "type": 2,
+      "value": 0,
+      "se": 4
+    },
+    {
+      "filepath": "item/orb.csb",
+      "type": 3,
+      "value": 0,
+      "se": 99
+    }
+  ],
+  "Weapon": [
+    {
+      "filepath": "item/weapon/whip00/whip00.csb",
+      "type": 0,
+      "atk": 10
+    },
+    {
+      "filepath": "item/weapon/staff00/staff00.csb",
+      "type": 1,
+      "atk": 10
+    }
+  ],
+  "Projectile": [
+    {
+      "filepath": "item/projectile/knife.csb",
+      "icon": "hud/icon/knife.png",
+      "type": 0,
+      "movespeed": 5,
+      "airForce": 0,
+      "livetime": 5,
+      "length": 400,
+      "cost": 2.5,
+      "se": 5,
+      "atkData": {
+        "atk": 10,
+        "atkType": 0,
+        "hitOption": 0,
+        "effect": 1
+      }
+    },
+    {
+      "filepath": "item/projectile/axe.csb",
+      "icon": "hud/icon/axe.png",
+      "type": 1,
+      "movespeed": 2,
+      "airForce": 200,
+      "livetime": 0,
+      "length": 200,
+      "cost": 5,
+      "se": 5,
+      "atkData": {
+        "atk": 20,
+        "atkType": 2,
+        "hitOption": 0,
+        "effect": 1
+      }
+    },
+    {
+      "filepath": "item/projectile/cross.csb",
+      "icon": "hud/icon/cross.png",
+      "type": 2,
+      "movespeed": 3,
+      "airForce": 0,
+      "livetime": 0,
+      "length": 300,
+      "cost": 7.5,
+      "se": 6,
+      "atkData": {
+        "atk": 8,
+        "atkType": 0,
+        "hitOption": 1,
+        "effect": 2
+      }
+    },
+    {
+      "filepath": "item/projectile/bone.csb",
+      "icon": "hud/icon/bone.png",
+      "type": 1,
+      "movespeed": 2,
+      "airForce": 150,
+      "livetime": 0,
+      "length": 200,
+      "cost": 0,
+      "se": 5,
+      "atkData": {
+        "atk": 10,
+        "atkType": 0,
+        "hitOption": 0,
+        "effect": 1
+      }
+    }
+  ],
+  "Effect": [
+    {
+      "filepath": "effect/hit00.csb",
+      "liveTime": 0.5,
+      "isGravity": false,
+      "se": 0
+    },
+    {
+      "filepath": "effect/hit01.csb",
+      "liveTime": 0.5,
+      "isGravity": false,
+      "se": 1
+    },
+    {
+      "filepath": "effect/hit02.csb",
+      "liveTime": 0.5,
+      "isGravity": false,
+      "se": 2
+    },
+    {
+      "filepath": "effect/heal.csb",
+      "liveTime": 0.5,
+      "isGravity": false,
+      "se": 3
+    }
+  ],
+  "Obstacle": [
+    {
+      "filepath": "stage/obstacle/rock.csb",
+      "status": {
+        "hp": 10,
+        "mp": 0
+      }
+    },
+    {
+      "filepath": "stage/obstacle/candle.csb",
+      "status": {
+        "hp": 15,
+        "mp": 0
+      }
+    }
+  ]
+}

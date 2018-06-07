@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>char/enemy/boss_icegolem/icegolem_01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{10,148},{48,53}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{48,53}</string>
+			</dict>
+			<key>char/enemy/boss_icegolem/icegolem_02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{78,148},{38,31}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{38,31}</string>
+			</dict>
+			<key>char/enemy/boss_icegolem/icegolem_03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{135,69},{24,36}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{24,36}</string>
+			</dict>
+			<key>char/enemy/boss_icegolem/icegolem_04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{220,105},{8,8}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{8,8}</string>
+			</dict>
+			<key>char/enemy/boss_icegolem/icegolem_05.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{10,221},{42,17}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{42,17}</string>
+			</dict>
+			<key>char/enemy/boss_icegolem/icegolem_06.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{134,199},{25,39}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{25,39}</string>
+			</dict>
+			<key>char/enemy/boss_icegolem/icegolem_07.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{220,133},{4,5}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{4,5}</string>
+			</dict>
+			<key>char/enemy/boss_icegolem/icegolem_08.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{179,69},{19,30}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{19,30}</string>
+			</dict>
+			<key>char/enemy/boss_icegolem/icegolem_09.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{179,227},{28,14}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{28,14}</string>
+			</dict>
+			<key>char/enemy/boss_icegolem/icegolem_10.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{218,60},{20,25}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{20,25}</string>
+			</dict>
+			<key>char/enemy/boss_icegolem/icegolem_11.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{179,181},{20,26}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{20,26}</string>
+			</dict>
+			<key>char/enemy/boss_icegolem/icegolem_12.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{219,165},{15,27}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{15,27}</string>
+			</dict>
+			<key>char/enemy/boss_icegolem/icegolem_13.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{72,221},{42,17}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{42,17}</string>
+			</dict>
+			<key>char/enemy/boss_icegolem/icegolem_14.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{135,10},{25,39}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{25,39}</string>
+			</dict>
+			<key>char/enemy/boss_icegolem/icegolem_15.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{136,125},{24,36}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{24,36}</string>
+			</dict>
+			<key>char/enemy/boss_icegolem/icegolem_16.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{180,10},{19,30}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{19,30}</string>
+			</dict>
+			<key>char/enemy/boss_icegolem/icegolem_17.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{219,10},{20,25}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{20,25}</string>
+			</dict>
+			<key>char/enemy/boss_icegolem/icegolem_18.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{180,119},{20,26}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{20,26}</string>
+			</dict>
+			<key>char/enemy/boss_icegolem/icegolem_19.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{227,212},{15,27}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{15,27}</string>
+			</dict>
+			<key>char/enemy/boss_icegolem/icegolem_20.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{10,10},{105,118}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{105,118}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>icegolem.png</string>
+			<key>realTextureFileName</key>
+			<string>icegolem.png</string>
+			<key>size</key>
+			<string>{256,256}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>256</integer>
+			<key>height</key>
+			<integer>256</integer>
+		</dict>
+	</dict>
+</plist>

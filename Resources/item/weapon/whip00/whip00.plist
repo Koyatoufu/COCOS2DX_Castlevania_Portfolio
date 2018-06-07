@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>item/weapon/whip00/img/whip00_01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{52,27},{16,38}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{16,38}</string>
+			</dict>
+			<key>item/weapon/whip00/img/whip00_02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{52,5},{49,12}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{49,12}</string>
+			</dict>
+			<key>item/weapon/whip00/img/whip00_03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{111,5},{62,8}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{62,8}</string>
+			</dict>
+			<key>item/weapon/whip00/img/whip00_04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{5,45},{64,6}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{64,6}</string>
+			</dict>
+			<key>item/weapon/whip00/img/whip00_05.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{21,45},{64,6}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{64,6}</string>
+			</dict>
+			<key>item/weapon/whip00/img/whip00_06.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{5,119},{35,3}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{35,3}</string>
+			</dict>
+			<key>item/weapon/whip00/img/whip00_07.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{5,5},{37,30}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{37,30}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>whip00.png</string>
+			<key>realTextureFileName</key>
+			<string>whip00.png</string>
+			<key>size</key>
+			<string>{128,128}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>128</integer>
+			<key>height</key>
+			<integer>128</integer>
+		</dict>
+	</dict>
+</plist>

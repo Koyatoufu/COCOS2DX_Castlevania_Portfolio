@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Castle Gate",
+    "bgm": "sounds/bgm/00_beginning.mp3",
+    "width": 3840,
+    "height": 480,
+    "roomData": [
+      {
+        "width": 1280,
+        "height": 480,
+        "x": 0,
+        "y": 0,
+        "useParallax": true,
+        "enemyMin": 3,
+        "obstacleMin": 2,
+        "enemyRand": 3,
+        "obstacleRand": 3
+      },
+      {
+        "width": 1280,
+        "height": 480,
+        "x": 1600,
+        "y": 0,
+        "useParallax": true,
+        "enemyMin": 4,
+        "obstacleMin": 3,
+        "enemyRand": 4,
+        "obstacleRand": 4
+      },
+      {
+        "width": 640,
+        "height": 480,
+        "x": 2880,
+        "y": 0,
+        "useParallax": false,
+        "enemyMin": 1,
+        "obstacleMin": 0,
+        "enemyRand": 0,
+        "obstacleRand": 0
+      }
+    ],
+    "enemyIdx": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "obstacleIdx": 0,
+    "unlockable": {
+      "char": 1,
+      "stage": [
+        1
+      ]
+    }
+  },
+  {
+    "name": "Entrance",
+    "bgm": "sounds/bgm/01_vampirekiller.mp3",
+    "width": 3840,
+    "height": 640,
+    "roomData": [
+      {
+        "width": 1280,
+        "height": 480,
+        "x": 0,
+        "y": 0,
+        "useParallax": true,
+        "enemyMin": 3,
+        "obstacleMin": 2,
+        "enemyRand": 3,
+        "obstacleRand": 3
+      },
+      {
+        "width": 1280,
+        "height": 480,
+        "x": 0,
+        "y": 0,
+        "useParallax": true,
+        "enemyMin": 4,
+        "obstacleMin": 3,
+        "enemyRand": 3,
+        "obstacleRand": 3
+      },
+      {
+        "width": 1280,
+        "height": 640,
+        "x": 0,
+        "y": 0,
+        "useParallax": false,
+        "enemyMin": 5,
+        "obstacleMin": 2,
+        "enemyRand": 3,
+        "obstacleRand": 3
+      },
+      {
+        "width": 960,
+        "height": 640,
+        "x": 0,
+        "y": 0,
+        "useParallax": false,
+        "enemyMin": 1,
+        "obstacleMin": 0,
+        "enemyRand": 3,
+        "obstacleRand": 3
+      }
+    ],
+    "enemyIdx": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "obstacleIdx": 1,
+    "unlockable": {
+      "char": 6,
+      "stage": [
+        2,
+        3
+      ]
+    }
+  }
+]

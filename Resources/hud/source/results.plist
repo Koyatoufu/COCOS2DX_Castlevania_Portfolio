@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>hud/source/stageclear_00.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{478,178},{256,31}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{256,31}</string>
+			</dict>
+			<key>hud/source/stageclear_01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{754,178},{256,31}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{256,31}</string>
+			</dict>
+			<key>hud/source/stageclear_02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{478,229},{256,31}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{256,31}</string>
+			</dict>
+			<key>hud/source/stageclear_03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{754,229},{256,31}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{256,31}</string>
+			</dict>
+			<key>hud/source/stageclear_04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{478,280},{256,31}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{256,31}</string>
+			</dict>
+			<key>hud/source/stageclear_05.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{754,280},{256,31}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{256,31}</string>
+			</dict>
+			<key>hud/source/stageclear_06.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{10,318},{256,31}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{256,31}</string>
+			</dict>
+			<key>hud/source/stageclear_07.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{286,331},{256,31}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{256,31}</string>
+			</dict>
+			<key>hud/source/stageclear_08.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{10,369},{256,31}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{256,31}</string>
+			</dict>
+			<key>hud/source/stageclear_09.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{562,331},{256,31}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{256,31}</string>
+			</dict>
+			<key>hud/source/gameover_00.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{818,94},{186,23}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{186,23}</string>
+			</dict>
+			<key>hud/source/gameover_01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{561,382},{207,25}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{207,25}</string>
+			</dict>
+			<key>hud/source/gameover_02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{10,420},{230,28}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{230,28}</string>
+			</dict>
+			<key>hud/source/gameover_03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{286,382},{255,31}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{255,31}</string>
+			</dict>
+			<key>hud/source/gameover_04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{478,10},{268,33}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{268,33}</string>
+			</dict>
+			<key>hud/source/result_menu.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{10,10},{448,288}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{448,288}</string>
+			</dict>
+			<key>hud/button/btn_result.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{766,10},{150,64}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{150,64}</string>
+			</dict>
+			<key>hud/button/btn_result_disable.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{478,63},{150,64}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{150,64}</string>
+			</dict>
+			<key>hud/button/btn_result_press.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{648,94},{150,64}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{150,64}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>results.png</string>
+			<key>realTextureFileName</key>
+			<string>results.png</string>
+			<key>size</key>
+			<string>{1024,512}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>512</integer>
+		</dict>
+	</dict>
+</plist>

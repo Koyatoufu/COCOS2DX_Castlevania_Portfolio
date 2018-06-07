@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>select/source/charsel_background.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{5,5},{640,480}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{640,480}</string>
+			</dict>
+			<key>select/source/charsel_btnlayer.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{793,255},{128,64}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{128,64}</string>
+			</dict>
+			<key>select/source/charsel_btnlayer_disable.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{931,255},{128,64}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{128,64}</string>
+			</dict>
+			<key>select/source/charsel_btnlayer_press.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{793,329},{128,64}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{128,64}</string>
+			</dict>
+			<key>select/source/charsel_layer.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{655,5},{480,128}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{480,128}</string>
+			</dict>
+			<key>select/source/chersel_infolayer.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{793,5},{160,240}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{160,240}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>charsel.png</string>
+			<key>realTextureFileName</key>
+			<string>charsel.png</string>
+			<key>size</key>
+			<string>{1024,512}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>512</integer>
+		</dict>
+	</dict>
+</plist>

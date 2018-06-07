@@ -1,0 +1,11 @@
+00 travor atk0,1,jumpatk0
+01 atk2
+02 atk3
+03 jumpatk 2
+04 sp 0
+05 sp 1
+06 sp 2
+07 sp 2
+08 hit_00
+09 hit_01
+10 dead

@@ -1,0 +1,22 @@
+se 0~2 hit
+	3 itemheal
+	4 itemchange
+	5 throw
+	6 throw saint
+	7 jump
+	8 dudge
+	9 slide
+	10 crumble
+	11 whip
+	12 takcle
+	13 punch
+	14 kick
+	15 boss punch
+	16 bone_walk
+	17 bone_break
+	18 wolf_bark
+	19 wolf_howl
+	20 golem_break
+	21 fire
+	22 bone_hit
+	23 golem_walk
